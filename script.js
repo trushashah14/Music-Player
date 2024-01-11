@@ -44,8 +44,8 @@ const songs = [
     artist: 'Camilla Cabeo',
   },
   {
-    name: 'Lose You To Love me',
-    displayName: 'Lose You To Love me',
+    name: 'Lose You To Love Me',
+    displayName: 'Lose You To Love Me',
     artist: 'Selena Gomez',
   },
   {
